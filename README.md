@@ -73,7 +73,7 @@ Create Level II Support team, Level I is created by default.
 <p>
 Add Agents (workers)  <br />
 Create 2 agents, Jane Doe and John Doe. <br />
-Jan Doe  <br />
+Jane Doe  <br />
 - supreme admin (role)  <br />
 - System Administrator (department)  <br />
 - Level II Support (team)  <br />
