@@ -44,7 +44,7 @@ http://localhost/osTicket/scp/login.php
 </p>
 <p>
 Create an admin role  <br />
-From the Admin Panel, we will add a Supreme Admin role
+From the Admin Panel, we will add a Supreme Admin role, and under the permissions tab we will allow all.
 </p>
 <br />
 
@@ -54,6 +54,16 @@ From the Admin Panel, we will add a Supreme Admin role
 </p>
 <p>
 Create Departments  <br />
-Create a System Administrator department
+Create a System Administrator department.
 </p>
 <br />
+
+<p>
+<img width="968" alt="Screen Shot 2023-09-26 at 2 34 09 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/b2094de2-e002-47cc-a7c9-721d2e98b609">
+</p>
+<p>
+Create Teams  <br />
+Create Level II Support team, Level I is created by default.
+</p>
+<br />
+
