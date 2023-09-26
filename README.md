@@ -67,3 +67,20 @@ Create Level II Support team, Level I is created by default.
 </p>
 <br />
 
+<p>
+<img width="968" alt="Screen Shot 2023-09-26 at 2 34 09 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/b2094de2-e002-47cc-a7c9-721d2e98b609">
+</p>
+<p>
+Add Agents (workers)  <br />
+Create 2 agents, Jane Doe and John Doe. <br />
+Jan Doe  <br />
+- supreme admin (role)  <br />
+- System Administrator (department)  <br />
+- Level II Support (team)  <br />
+John Doe  <br />
+- support (role)  <br />
+- view only  <br />
+</p>
+<br />
+
+
