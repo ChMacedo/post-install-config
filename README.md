@@ -44,7 +44,7 @@ http://localhost/osTicket/scp/login.php
 </p>
 <p>
 Create an admin role  <br />
-From the Admin Panel, we will add a Supreme Admin role, and under the permissions tab we will allow all.
+From the Admin Panel, add a Supreme Admin role, and under the permissions tab allow every permission.
 </p>
 <br />
 
