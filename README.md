@@ -110,8 +110,7 @@ Switch back to the Admin Panel and create 3 SLAs <br />
 <br />
 
 <p>
-<img width="961" alt="Screen Shot 2023-09-26 at 2 39 24 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/d322eb56-f668-4ef9-a0b1-fbfa5a1c7f8c">
-
+<img width="954" alt="Screen Shot 2023-09-26 at 3 08 10 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/9df433d1-c626-456e-9eca-b1bdfade0961">
 </p>
 <p>
 Add Help Topics  <br />
