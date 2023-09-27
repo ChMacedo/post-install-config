@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Remote desktop into the virtual machine, made in [osTicket - Prerequisites and Installation.](https://github.com/ChMacedo/osticket-prereqs) Then login from the help desk login page  <br />
+Remote desktop into the virtual machine, made in [osTicket - Prerequisites and Installation.](https://github.com/ChMacedo/osticket-prereqs#list-of-prerequisites) Then login from the help desk login page  <br />
 http://localhost/osTicket/scp/login.php
 </p>
 <br />
