@@ -85,4 +85,14 @@ John Doe  <br />
 </p>
 <br />
 
+<p>
+<img width="944" alt="Screen Shot 2023-09-26 at 2 54 35 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/16e8b7c3-3935-4e27-ba34-90ad4248e35d">
+<img width="944" alt="Screen Shot 2023-09-26 at 2 59 38 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/a8532a11-8928-419b-aeb2-499702d9a583">
+</p>
+<p>
+Add Users  <br />
+Switch to the Agent Panel and add Karen and Ken as users.
+</p>
+<br />
+
 
