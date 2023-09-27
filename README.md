@@ -108,3 +108,17 @@ Switch back to the Admin Panel and create 3 SLAs <br />
 3. SEV-C (8 hours, business hours)
 </p>
 <br />
+
+<p>
+<img width="961" alt="Screen Shot 2023-09-26 at 2 39 24 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/d322eb56-f668-4ef9-a0b1-fbfa5a1c7f8c">
+
+</p>
+<p>
+Add Help Topics  <br />
+Add the following Help Topics  <br />
+1. Business Critical Outage  <br />
+2. Personal Computer Issues  <br />
+3. Equipment Request  <br />
+4. Password Reset
+</p>
+<br />
