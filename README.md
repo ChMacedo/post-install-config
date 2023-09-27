@@ -95,4 +95,16 @@ Switch to the Agent Panel and add Karen and Ken as users.
 </p>
 <br />
 
-
+<p>
+<img width="944" alt="Screen Shot 2023-09-26 at 3 01 39 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/2e50548e-a9fa-44af-a9ea-58c421b9d2ca">
+<img width="944" alt="Screen Shot 2023-09-26 at 3 01 39 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/ad78eab3-335c-455f-b49e-5f52113dd2fe">
+<img width="944" alt="Screen Shot 2023-09-26 at 3 01 39 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/caebaf68-612a-4377-9652-70778227b650">
+</p>
+<p>
+Create SLA  <br />
+Switch back to the Admin Panel and create 3 SLAs <br />
+1. SEV-A (1 hour, 24/7)  <br />
+2. SEV-B (4 hours, 24/7)  <br />
+3. SEV-C (8 hours, business hours)
+</p>
+<br />
