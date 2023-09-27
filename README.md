@@ -53,7 +53,7 @@ From the Admin Panel, add a Supreme Admin role, and under the permissions tab al
 </p>
 <p>
 Create Departments  <br />
-Create a System Administrator department.
+Create the department System Administrator.
 </p>
 <br />
 
@@ -62,7 +62,7 @@ Create a System Administrator department.
 </p>
 <p>
 Create Teams  <br />
-Create Level II Support team, Level I is created by default.
+Create a Level II Support team, Level I is created by default.
 </p>
 <br />
 
