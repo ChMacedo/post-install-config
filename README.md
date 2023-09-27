@@ -1,4 +1,4 @@
-<p align="center">
+<img width="954" alt="Screen Shot 2023-09-26 at 3 08 10 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/90211a7b-005e-475a-b208-506df92dc68e"><p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -118,6 +118,9 @@ Add the following Help Topics, osTicket has some help topics by default.  <br />
 1. Business Critical Outage  <br />
 2. Personal Computer Issues  <br />
 3. Equipment Request  <br />
-4. Password Reset
+4. Password Reset  <br />
+ <br />
+Post configuration is complete! Now you have everything you need to start making some ticktes.
+
 </p>
 <br />
