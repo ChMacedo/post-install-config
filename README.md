@@ -114,7 +114,7 @@ Switch back to the Admin Panel and create 3 SLAs <br />
 </p>
 <p>
 Add Help Topics  <br />
-Add the following Help Topics  <br />
+Add the following Help Topics, osTicket has some help topics by default.  <br />
 1. Business Critical Outage  <br />
 2. Personal Computer Issues  <br />
 3. Equipment Request  <br />
