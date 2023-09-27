@@ -68,7 +68,9 @@ Create Level II Support team, Level I is created by default.
 <br />
 
 <p>
-<img width="968" alt="Screen Shot 2023-09-26 at 2 34 09 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/b2094de2-e002-47cc-a7c9-721d2e98b609">
+<img width="961" alt="Screen Shot 2023-09-26 at 2 38 18 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/d421444e-6d86-4c15-acaf-5bb2e672d4a6">
+<img width="944" alt="Screen Shot 2023-09-26 at 2 50 04 PM" src="https://github.com/ChMacedo/post-install-config/assets/103891128/9626542e-799c-4cd6-90df-329a71eb9eb4">
+
 </p>
 <p>
 Add Agents (workers)  <br />
