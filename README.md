@@ -119,7 +119,7 @@ Add the following Help Topics, osTicket has some help topics by default.  <br />
 3. Equipment Request  <br />
 4. Password Reset  <br />
  <br />
-Post configuration is complete! Now you have everything you need to start making some ticktes.
+Post configuration is complete! Now you have everything you need to start making ticktes.
 
 </p>
 <br />
